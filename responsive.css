@@ -1,0 +1,159 @@
+@media all and (max-width:1224px) {
+    .fixed-width {
+        padding: 0 20px;
+    }
+    .blog-right-section ul {
+        padding-left: 0;
+    }
+}
+
+@media all and (max-width:958px) {
+    .logo {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .logo a {
+        font-size: 40px;
+    }
+
+    .menu {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .menu ul {
+        text-align: center;
+    }
+
+    .menu ul li a {
+        border-right: none;
+    }
+
+    .banner h1 {
+        font-size: 25px;
+        margin-top: 4px;
+    }
+
+    .banner {
+        padding: 120px 0;
+    }
+    .blog-right-section ul {
+        padding-left: 0;
+    }
+
+    .service-item h3 {
+        font-size: 14px;
+    }
+
+    .footer-left {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-right {
+        float: right;
+        width: 100%;
+        text-align: center;
+    }
+
+    .social-icon {
+        text-align: center;
+        margin-top: 10px;
+    }
+}
+
+@media all and (max-width:908px) {
+    .banner {
+        padding: 80px 0;
+    }
+    .blog-right-section ul {
+        padding-left: 0;
+    }
+}
+
+@media all and (max-width:750px) {
+    .banner {
+        padding: 70px 0;
+    }
+
+    .blog-item p {
+        font-size: 15px;
+    }
+
+    .blog-right-section ul {
+        padding-left: 0;
+    }
+
+    .blog-right-section ul li {
+        font-size: 15px;
+    }
+
+    .blog-right-section h2 {
+        font-size: 25px;
+    }
+}
+
+@media all and (max-width:625px) {
+    .menu ul li a {
+        padding: 0 15px;
+    }
+
+    .banner {
+        padding: 60px 0;
+    }
+
+    .service-item {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+    }
+
+    .blog-right-section {
+        float: right;
+        width: 100%;
+    }
+
+    .blog-left-section {
+        float: left;
+        width: 100%;
+    }
+
+    @media all and (max-width:565px) {
+        .logo a {
+            font-size: 25px;
+        }
+
+        .menu ul li a {
+            padding: 0 5px;
+            font-size: 15px;
+        }
+
+        .service-item {
+            width: 100%;
+            float: none;
+            margin-bottom: 20px;
+        }
+
+        .banner h2 {
+            font-size: 20px;
+        }
+
+        .banner h1 {
+            font-size: 20px;
+            margin-top: 5px;
+        }
+
+        .blog-right-section {
+            float: right;
+            width: 100%;
+        }
+
+        .blog-left-section {
+            float: left;
+            width: 100%;
+        }
+    }
